@@ -9,3 +9,7 @@ The objective of this project is to generate data analysis report and created a 
   2. To identify which product lines that needed to be focused on.
   3. To explore the relationship between promotional discount and people spending behavior.
   4. To determine state and market segment that most profitable.
+
+### The interactive dashboard can be viewed on
+
+[Business Dashboard (Tableau Public](https://public.tableau.com/app/profile/ahmad.khairi.bin.ahmad.khir1831/viz/AstradrelE-Commerce/AstradrelE-CommerceDashboard)
