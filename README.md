@@ -12,4 +12,4 @@ The objective of this project is to generate data analysis report and created a 
 
 ### The interactive dashboard can be viewed on
 
-[Business Dashboard (Tableau Public](https://public.tableau.com/app/profile/ahmad.khairi.bin.ahmad.khir1831/viz/AstradrelE-Commerce/AstradrelE-CommerceDashboard)
+[Business Dashboard (Tableau Public)](https://public.tableau.com/app/profile/ahmad.khairi.bin.ahmad.khir1831/viz/AstradrelE-Commerce/AstradrelE-CommerceDashboard)
